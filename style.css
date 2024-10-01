@@ -55,8 +55,8 @@ p {
 }
 
 .hero {
-  width: 320px;
-  height: 499px;
+  width: 20rem;
+  height: 31.1875rem;
 
   display: flex;
   flex-direction: column;
